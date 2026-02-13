@@ -67,12 +67,10 @@ Jupyter Notebook
 
 ## Project Structure
 
-Customer-Churn-Prediction/
-│
-├── data/
-├── notebooks/
-├── requirements.txt
-└── README.md
+- data/
+- notebooks/
+- requirements.txt
+- README.md
 
 ---
 
